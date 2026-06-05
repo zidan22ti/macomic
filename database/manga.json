@@ -1,0 +1,47 @@
+{
+  "_version": "manga.json V1.0 Rev 0",
+  "manga_id": "a-dragonslayers-peerless-regression",
+  "title": "A Dragonslayer's Peerless Regression",
+  "alternative_title": "Yongdosaui Yeokdaegeup Hoegwi, The Peerless Regressor of the Dragon Slayer",
+  "status": "Ongoing",
+  "author": "Woo Gak",
+  "artist": "Gwang San",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Fantasy",
+    "Manhwa",
+    "Regression"
+  ],
+  "type": "Manhwa",
+  "release_year": 2023,
+  "rating": "4.8",
+  "synopsis": "Slayer naga terkuat, Siegfried, gagal mengalahkan Naga Kiamat dan tewas di medan perang. Namun, alih-alih pergi ke akhirat, ia terbangun kembali ke masa lalu saat dirinya masih menjadi tentara bayaran kelas rendah. Dengan ingatan masa depan dan kemampuan tak tertandingi, ia bertekad untuk kembali memburu para naga dan mencegah kehancuran dunia.",
+  "cover_url": "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/cover.jpg",
+  "chapters": [
+    {
+      "chapter_id": "chapter-01",
+      "chapter_number": "01",
+      "chapter_title": "Kebangkitan Sang Pembantai Naga",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-01/005.jpg"
+      ]
+    },
+    {
+      "chapter_id": "chapter-02",
+      "chapter_number": "02",
+      "chapter_title": "Masa Lalu yang Terulang",
+      "images": [
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/001.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/002.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/003.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/004.jpg",
+        "https://raw.githubusercontent.com/MonstaComic/storage-db/main/manga/a-dragonslayers-peerless-regression/chapters/ch-02/005.jpg"
+      ]
+    }
+  ]
+}
